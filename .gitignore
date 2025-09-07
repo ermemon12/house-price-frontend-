@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+package-lock.json
+package.json
+
+# Python
+__pycache__/
+*.pkl
+*.csv
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
