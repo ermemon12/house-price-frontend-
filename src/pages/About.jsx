@@ -8,7 +8,7 @@ const About = () => {
       <div className="about-container">
         <h2 className="about-title">About Me</h2>
         <p className="about-text">
-          Hi, I'm <strong>Eram Memon</strong>, currently in my final year of IT
+          Hi, I'm <strong>Eram Kandhal</strong>, currently in my final year of IT
           Engineering. I have a strong passion for <strong>Data Analytics</strong>,
           <strong> Machine Learning</strong>, and <strong>Full Stack Development</strong>.
           My journey revolves around building innovative solutions, exploring
