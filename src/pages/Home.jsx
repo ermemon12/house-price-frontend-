@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
 import houseImage from "../images/housee.jpg";
+import { Link } from "react-router-dom";
 
 const Home = () => (
   <section id="home" className="home-section">
@@ -25,7 +26,9 @@ const Home = () => (
           <strong>Why choose HousePriceAI?</strong> Fast, easy-to-use, with a modern interface for smooth experience on any device.
         </p>
 
-        <a href="#predict" className="btn-primary">Predict Now</a>
+        <Link to="/predict" className="btn-primary">
+            Predict Now
+        </Link>
       </div>
 
       <div className="hero-image">
